@@ -1,6 +1,6 @@
 # Hello, world!
 ## About me
-### I'm a beginning backend developer.
+### Hi! I'm a beginning software engineer.
 ![](https://github-readme-stats.vercel.app/api?username=mysterious-hatter&show_icons=true&theme=discord_old_blurple&line_height=33.7)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mysterious-hatter&hide=css,html&theme=discord_old_blurple&langs_count=4)
 ## My best projects
